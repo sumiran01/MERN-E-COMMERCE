@@ -1,0 +1,76 @@
+{
+    "id": "12345",
+    "name": "MacBook Pro",
+    "description": "Powerful and portable, the MacBook Pro is perfect for professionals and creatives.",
+    "status": "active",
+    "price": "1999.99",
+    "sku": "MBP123",
+    "inventory_quantity": "10",
+    "weight": "1.25",
+    "weight_unit": "lb",
+    "options": [
+      {
+        "id": "1",
+        "name": "Color",
+        "values": [
+          "Red"
+        ]
+      }
+    ],
+    "Transaction": [
+      {
+        "id": "ksdn",
+        "amount": 4000,
+        "quantity": 5,
+        "discount": 300,
+        "status": "Processing"
+      },
+      {
+        "id": "sds",
+        "amount": 5100,
+        "quantity": 3,
+        "discount": 900,
+        "status": "Processing"
+      },
+      {
+        "id": "dfddd",
+        "amount": 2300,
+        "quantity": 4,
+        "discount": 2000,
+        "status": "Processing"
+      },
+      {
+        "id": "sdsd",
+        "amount": 13000,
+        "quantity": 91,
+        "discount": 0,
+        "status": "Shipped"
+      }
+    ],
+    "tags": [
+      "Apple"
+    ],
+    "categories": [
+      {
+        "id": "12ax",
+        "name": "Laptops",
+        "value":40
+      },
+      {
+        "id": "123bf",
+        "name": "shoes",
+        "value":100
+      },
+      {
+        "id": "12dfg",
+        "name": "cameras",
+        "value":80
+      },
+      {
+        "id": "1as34fg",
+        "name": "jeans",
+        "value":60
+      }
+      
+    ]
+  }
